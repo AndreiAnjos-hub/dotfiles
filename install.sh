@@ -1,1 +1,1 @@
-pip install rich streamlit pandas plotly python-telegram-bot python-dotenv
+pip install rich streamlit pandas matplotlib plotly python-telegram-bot python-dotenv
